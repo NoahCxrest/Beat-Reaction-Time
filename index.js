@@ -25,3 +25,5 @@ const checkAndClickPixel = () => {
 
 // Start the pixel color checking process
 checkAndClickPixel();
+
+// Creator of this script is @finalcutpro (Discord)
